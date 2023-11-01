@@ -1,0 +1,12 @@
+/Users/kevin/repos/learning-netcore/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/kevin/repos/learning-netcore/Domain/bin/Debug/net7.0/Domain.dll
+/Users/kevin/repos/learning-netcore/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/kevin/repos/learning-netcore/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/kevin/repos/learning-netcore/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/repos/learning-netcore/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/kevin/repos/learning-netcore/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/kevin/repos/learning-netcore/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/kevin/repos/learning-netcore/Domain/obj/Debug/net7.0/Domain.dll
+/Users/kevin/repos/learning-netcore/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/kevin/repos/learning-netcore/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/kevin/repos/learning-netcore/Domain/obj/Debug/net7.0/ref/Domain.dll

@@ -1,0 +1,17 @@
+/Users/kevin/repos/learning-netcore/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
+/Users/kevin/repos/learning-netcore/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
+/Users/kevin/repos/learning-netcore/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
+/Users/kevin/repos/learning-netcore/Infrastructure/bin/Debug/net7.0/Application.dll
+/Users/kevin/repos/learning-netcore/Infrastructure/bin/Debug/net7.0/Domain.dll
+/Users/kevin/repos/learning-netcore/Infrastructure/bin/Debug/net7.0/Domain.pdb
+/Users/kevin/repos/learning-netcore/Infrastructure/bin/Debug/net7.0/Application.pdb
+/Users/kevin/repos/learning-netcore/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/kevin/repos/learning-netcore/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/repos/learning-netcore/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/kevin/repos/learning-netcore/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/Users/kevin/repos/learning-netcore/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/kevin/repos/learning-netcore/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/Users/kevin/repos/learning-netcore/Infrastructure/obj/Debug/net7.0/Infrastructure.dll
+/Users/kevin/repos/learning-netcore/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
+/Users/kevin/repos/learning-netcore/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
+/Users/kevin/repos/learning-netcore/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll
